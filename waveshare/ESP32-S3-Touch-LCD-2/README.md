@@ -12,3 +12,10 @@
 - Main component pocket might need to be expanded depending on battery size.
 - To remove the device from the enclosure use a small screw driver and push up
 through one of the mount holes to press on the mounting foot.
+
+## Assembly
+1. Place printed buttons into their respective holes (near USB-C port hole)
+2. Attach camera module and battery (both optional)
+3. Place Waveshare board into enclosure
+4. Align camera module into camera hole on bottom of enclosure
+5. Insert 4 M2 screws into bottom enclosure and tighten, but do not overtighten or buttons won't actuate
